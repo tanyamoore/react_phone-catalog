@@ -1,22 +1,35 @@
 {
   "files": {
-    "main.css": "./static/css/main.819e4dd6.chunk.css",
-    "main.js": "./static/js/main.509d6b4b.chunk.js",
-    "main.js.map": "./static/js/main.509d6b4b.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.7c3e9311.js",
-    "runtime-main.js.map": "./static/js/runtime-main.7c3e9311.js.map",
-    "static/js/2.149416bf.chunk.js": "./static/js/2.149416bf.chunk.js",
-    "static/js/2.149416bf.chunk.js.map": "./static/js/2.149416bf.chunk.js.map",
+    "main.css": "./static/css/main.067d0f9b.chunk.css",
+    "main.js": "./static/js/main.5404c23f.chunk.js",
+    "main.js.map": "./static/js/main.5404c23f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e1f50cee.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e1f50cee.js.map",
+    "static/js/2.40510c7e.chunk.js": "./static/js/2.40510c7e.chunk.js",
+    "static/js/2.40510c7e.chunk.js.map": "./static/js/2.40510c7e.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.f96163bf66b4bc18893bcedc683b7c29.js": "./precache-manifest.f96163bf66b4bc18893bcedc683b7c29.js",
+    "precache-manifest.e9802c815028f94240991e55d5f4a86b.js": "./precache-manifest.e9802c815028f94240991e55d5f4a86b.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.819e4dd6.chunk.css.map": "./static/css/main.819e4dd6.chunk.css.map",
-    "static/js/2.149416bf.chunk.js.LICENSE.txt": "./static/js/2.149416bf.chunk.js.LICENSE.txt"
+    "static/css/main.067d0f9b.chunk.css.map": "./static/css/main.067d0f9b.chunk.css.map",
+    "static/js/2.40510c7e.chunk.js.LICENSE.txt": "./static/js/2.40510c7e.chunk.js.LICENSE.txt",
+    "static/media/Banner.png": "./static/media/Banner.5d19c6c1.png",
+    "static/media/App.scss": "./static/media/Mont-Regular.abb74a59.ttf",
+    "static/media/Phones.png": "./static/media/Phones.3a51a487.png",
+    "static/media/Phones1.png": "./static/media/Phones1.fb001c32.png",
+    "static/media/Phones2.png": "./static/media/Phones2.a3261dff.png",
+    "static/media/Photo.png": "./static/media/Photo.2eaae658.png",
+    "static/media/brand1.png": "./static/media/brand1.208e513e.png",
+    "static/media/brand4.png": "./static/media/brand4.88b89394.png",
+    "static/media/hot1.png": "./static/media/hot1.74cfeb08.png",
+    "static/media/hot2.png": "./static/media/hot2.3b1fcf07.png",
+    "static/media/hot3.png": "./static/media/hot3.cd8c2195.png",
+    "static/media/hot4.png": "./static/media/hot4.74cfeb08.png",
+    "static/media/like.svg": "./static/media/like.e80046fa.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c3e9311.js",
-    "static/js/2.149416bf.chunk.js",
-    "static/css/main.819e4dd6.chunk.css",
-    "static/js/main.509d6b4b.chunk.js"
+    "static/js/runtime-main.e1f50cee.js",
+    "static/js/2.40510c7e.chunk.js",
+    "static/css/main.067d0f9b.chunk.css",
+    "static/js/main.5404c23f.chunk.js"
   ]
 }
